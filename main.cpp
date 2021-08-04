@@ -1,12 +1,7 @@
 /*
-Diego Acuna - S00369466
-CSCI 3000, HW 5
+Diego Acuna 
 04/07/20
-
-
-The purpose of this code is to be able to use a class system with a set number of employees with different information and allow the user to print all info, print by dept, print by salary and exit program. This program contains classees, functions and file operations
- 
- */
+*/
 
 #include <iostream>
 #include <string>
