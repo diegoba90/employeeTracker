@@ -1,6 +1,5 @@
 /*
-Diego Acuna - S00369466
-CSCI 3000, HW 5
+Diego Acuna
 04/07/20
  
 Employee Class
